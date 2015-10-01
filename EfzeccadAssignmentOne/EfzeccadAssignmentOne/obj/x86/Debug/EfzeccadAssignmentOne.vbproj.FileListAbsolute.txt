@@ -1,0 +1,26 @@
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\bin\Debug\EfzeccadAssignmentOne.exe
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\bin\Debug\EfzeccadAssignmentOne.pdb
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\bin\Debug\EfzeccadAssignmentOne.xml
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.CalculatorForm.resources
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.Resources.resources
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.vbproj.GenerateResource.Cache
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.exe
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.xml
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.pdb
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.AboutBox.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.LoginForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.SplashScreen.resources
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.exe
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.xml
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.pdb
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\bin\Debug\EfzeccadAssignmentOne.exe
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\bin\Debug\EfzeccadAssignmentOne.pdb
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\bin\Debug\EfzeccadAssignmentOne.xml
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.AboutBox.resources
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.CalculatorForm.resources
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.LoginForm.resources
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.Resources.resources
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.SplashScreen.resources
+\\mydocs.uark.edu\mydocs\efzeccad\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.vbproj.GenerateResource.Cache
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.HistoryForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\EfzeccadAssignmentOne\EfzeccadAssignmentOne\obj\x86\Debug\EfzeccadAssignmentOne.SettingsForm.resources
